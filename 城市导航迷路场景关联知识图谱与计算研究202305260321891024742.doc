@@ -1,0 +1,1084 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><link rel=File-List  href="城市导航迷路场景关联知识图谱与计算研究202305260321891024742.files/filelist.xml" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>08280</o:Author><o:LastAuthor>坐听鱼蟹翻菰蒲</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>11</o:Pages><o:Characters>8978</o:Characters><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >2052-12.1.0.15933</o:KSOProductBuildVer><o:ICV dt:dt="string" >2289BF686B3842399D06CADDCB4F9328_12</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Web</w:View><w:Compatibility><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="caption" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Default Paragraph Font" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal Table" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Contemporary" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Elegant" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Professional" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Theme" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+</w:LatentStyles></xml><![endif]--><style>
+@font-face{
+font-family:"Times New Roman";
+}
+
+@font-face{
+font-family:"宋体";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+p.MsoNormal{
+mso-style-name:正文;
+mso-style-noshow:yes;
+mso-style-parent:"";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+h1{
+mso-style-name:"标题 1";
+mso-style-next:正文;
+margin-top:11.2500pt;
+margin-right:0.0000pt;
+margin-bottom:11.2500pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:24.0000pt;
+mso-font-kerning:22.0000pt;
+}
+
+h2{
+mso-style-name:"标题 2";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:18.0000pt;
+}
+
+h3{
+mso-style-name:"标题 3";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:13.5000pt;
+}
+
+h4{
+mso-style-name:"标题 4";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:12.0000pt;
+}
+
+h5{
+mso-style-name:"标题 5";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:10.0000pt;
+}
+
+h6{
+mso-style-name:"标题 6";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:7.5000pt;
+}
+
+span.10{
+font-family:'Times New Roman';
+}
+
+span.15{
+font-family:'Times New Roman';
+}
+
+span.16{
+font-family:'Times New Roman';
+mso-ansi-font-weight:bold;
+}
+
+span.17{
+font-family:'Times New Roman';
+}
+
+p.pre{
+mso-style-name:"HTML 预设格式";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.p{
+mso-style-name:"普通\(网站\)";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.20{
+mso-style-name:row;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:center;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.21{
+mso-style-name:qz;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:right;
+line-height:13.5000pt;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.22{
+mso-style-name:container;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.23{
+mso-style-name:"普通\(网站\) Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.24{
+mso-style-name:bh;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.25{
+mso-style-name:"HTML 预设格式 Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.26{
+mso-style-name:name-title;
+margin-top:11.2500pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);
+mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);
+border-left:1.0000pt solid rgb(0,0,0);
+mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+padding:0pt 0pt 0pt 0pt ;
+text-align:center;
+line-height:22.5000pt;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+span.msoIns{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:underline;
+text-underline:single;
+color:blue;
+}
+
+span.msoDel{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:line-through;
+color:red;
+}
+
+table.MsoNormalTable{
+mso-style-name:普通表格;
+mso-style-parent:"";
+mso-style-noshow:yes;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:'Times New Roman';
+font-size:10.0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+@page{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}@page Section0{
+size:595.3000pt 841.9500pt;
+mso-header-margin:42.5500pt;
+mso-footer-margin:49.6000pt;
+}
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><p class=MsoNormal  align=center  style="margin-top:11.2500pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;border-top:1.0000pt solid rgb(0,0,0);mso-border-top-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:center;
+line-height:22.5000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >创新训练项目</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:7.5000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >附件一</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:7.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><h2 align=center  style="margin-top:1.5000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:center;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >中国地质大学（武汉）</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >国家级大学生创新创业训练项目申报表</font> </span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h2><p class=23  align=right  style="margin-top:3.8000pt;margin-right:41.3000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:right;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >填表时间：</font><font face="宋体" >2023年05月23日</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><div align=center ><table class=MsoNormalTable  border=0  cellspacing=0  style="border-collapse:collapse;width:100.0000%;border:none;
+mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td valign=center  colspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >申报项目名称</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=6  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >城市导航迷路场景关联知识图谱与计算研究</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  colspan=2  style="padding:3.7500pt 1.9000pt 3.7500pt 1.9000pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >申报项目类别</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=6  style="padding:3.7500pt 1.9000pt 3.7500pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >&#9745;综合项目&#8195;&#8195;&#8195;&#9633;竞赛专项&#8195;&#8195;&#8195;&#9633;毕业论文（设计）专项</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >&#9633;跨学科专项&#8195;&#8195;&#9633;基础学科专项 </font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  colspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >项目所属一级学科</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=6  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:4.5000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >计算机类</font><font face="宋体" >(0809),测绘类(0812)</font></span><span style="font-family:宋体;font-size:4.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  colspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >项目拟完成时间（</font><font face="宋体" >1~3年）</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=6  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2023年06月~ ~2024年06月</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  colspan=2  style="padding:24.4000pt 1.9000pt 24.4000pt 1.9000pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >项目简介</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >(200字以内)</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=6  style="padding:24.4000pt 1.9000pt 24.4000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=justify  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >导航决策是人们日常出行的一项重要认知任务，导航经验知识的获取对于人类导航行为及导航能力至关重要。然而现有大数据环境下日益丰富的导航经验知识并不能由现有导航地图覆盖或表征，远未形成激发导航者认知潜能提升的有效学习通道。因此，本项目针对导航决策中容易出现的迷路场景，以群集导航经验文本为数据集，基于深度学习方法构建面向导航迷路场景关联知识图谱与导航迷路场景的查询计算方法，以揭示导航共性经验规律，服务于大众的导航空间知识获取与自主导航决策行为的效能提升。</font> </span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  rowspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:none;border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >项目</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >负责人</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >姓名</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >李安南</font><font face="宋体" >(20211000722)</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >性别</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >男</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=13.7600%  valign=center  style="width:13.7600%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:1.0000pt solid rgb(0,0,0);mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >学号</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=39.8000%  valign=center  style="width:39.8000%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:1.0000pt solid rgb(0,0,0);mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >20211000722</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >学院</font><font face="宋体" >/专业</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >计算机学院</font><font face="宋体" >/软件工程</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >班号</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >111211</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=13.7600%  valign=center  style="width:13.7600%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >联系方式</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=39.8000%  valign=center  style="width:39.8000%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >17814562133</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  rowspan=5  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:none;border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >项目组</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >成员</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >姓名</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >性别</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >学号</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >学院、专业</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=13.7600%  valign=center  style="width:13.7600%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >联系方式</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=39.8000%  valign=center  style="width:39.8000%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >QQ、email</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >李安南</font><font face="宋体" >(20211000722)</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >男</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >20211000722</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >计算机学院</font><font face="宋体" >/软件工程</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=13.7600%  valign=center  style="width:13.7600%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >17814562133</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=39.8000%  valign=center  style="width:39.8000%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >747439409/082807010630@cug.edu.cn</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >李思琪</font><font face="宋体" >(20211001701)</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >女</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >20211001701</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >计算机学院</font><font face="宋体" >/软件工程</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=13.7600%  valign=center  style="width:13.7600%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >18788838860</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=39.8000%  valign=center  style="width:39.8000%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >177617620/177617620@qq.com</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >李梦萍</font><font face="宋体" >(20211001861)</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >女</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >20211001861</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >计算机学院</font><font face="宋体" >/软件工程</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=13.7600%  valign=center  style="width:13.7600%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >15070473397</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=39.8000%  valign=center  style="width:39.8000%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2313078374/2313078374@qq.com</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >方天桐</font><font face="宋体" >(20211003152)</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >男</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >20211003152</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >计算机学院</font><font face="宋体" >/软件工程</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=13.7600%  valign=center  style="width:13.7600%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >18071100505</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=39.8000%  valign=center  style="width:39.8000%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2495377283/ftt12345@cug.edu.cn</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  colspan=8  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:5.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >注</font><font face="宋体" >:项目组成员一般不超过3人（含项目负责人）。 </font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:5.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr><td valign=center  rowspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:none;border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >项目指</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >导教师</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >姓名</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >职称</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >学院</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >研究领域</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=13.7600%  valign=center  style="width:13.7600%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:1.0000pt solid rgb(0,0,0);mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >联系方式</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=39.8000%  valign=center  style="width:39.8000%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:1.0000pt solid rgb(0,0,0);mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >email</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >杨林</font><font face="宋体" >(053263)</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >副教授</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >计算机学院</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=2  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >城市交通智能计算</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=13.7600%  valign=center  style="width:13.7600%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >15927322600</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=39.8000%  valign=center  style="width:39.8000%;padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);
+border-top:none;mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >yanglin@cug.edu.cn</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  colspan=8  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:5.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >注：指导教师必须是项目所在领域的专业老师，能对项目开展有效指导。</font> </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:5.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr><td valign=center  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >项目所在学院</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  colspan=7  style="padding:1.9000pt 1.9000pt 1.9000pt 1.9000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >计算机学院</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table></div><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;display:none;
+mso-hide:all;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;display:none;
+mso-hide:all;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><div align=center ><table class=MsoNormalTable  border=0  cellspacing=0  style="border-collapse:collapse;width:100.0000%;border:none;
+mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:106.9000pt;" ><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:none;border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >项目申报理由：（主要包括项目成员的知识储备、优势以及前期准备）</font> </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=23  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本项目旨在探索和分析用户在使用导航软件时遇到的问题，以及为导航软件提供改进方案，从而提升用户的体验。我们的项目团队由多名熟悉数据分析和人工智能技术的成员组成，具有以下优势：</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.数据分析能力：我们的团队成员都具有良好的数据分析能力，可以对导航经验信息进行有效的数据处理和分析，从而得出有价值的结论。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.人工智能技术：我们的团队成员对人工智能技术背景有深入了解，可以使用自然语言处理、机器学习等技术进行情感分析、因果关系分析等任务。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.导航软件开发经验：我们的团队成员中有多名进行过合作软件开发经验的工程师，可以为项目提供技术支持和指导。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >在前期准备方面，我们已经对导航经验信息进行了收集和整理，同时也搜集了相关的数据分析和人工智能技术，为项目的顺利实施奠定了基础。因此，我们有信心能够顺利完成本项目，并为导航软件的改进做出贡献。</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:106.9000pt;" ><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >项目研究目的和解决的主要问题：</font> </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b style="mso-bidi-font-weight:normal" ><span class="16"  style="font-family:宋体;mso-ansi-font-weight:bold;mso-bidi-font-weight:normal;" ><font face="宋体" >研究目的</font><font face="宋体" >:</font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><span style="font-family:宋体;mso-spacerun:'yes';" >&nbsp;</span></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本课题以提升导航主体认知学习能力为目标，创新性地借助众源导航迷路经验数据学习，构建导航迷路经验的关联知识图谱与查询计算方法，通过导航决策驱动语义视角下的导航迷路经验知识的挖掘与可视化呈现，打通导航者通过导航地图学习导航经验知识的学习通道，为用户提供一种新颖的探索环境知识交互学习的导航服务形式。具体目标包括：</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.导航迷路场景的知识图建模，将迷路场景的时间、空间、天气、地形、道路、建筑等环境特征等概念进行抽象与关系建模。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.导航迷路经验特征词集抽取，实现对与导航决策相关的基础导航要素与本体经验语义集的提取； </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.导航迷路场景的查询计算，针对迷路场景的特定查询构建图存储方案以及查询优化策略； </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >4.导航迷路场景的可视化系统构建。建立融合导航迷路经验语义的新型导航地图表征，促进导航用户加速对复杂迷路环境的学习与理解。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b style="mso-bidi-font-weight:normal" ><span class="16"  style="font-family:宋体;mso-ansi-font-weight:bold;mso-bidi-font-weight:normal;" ><font face="宋体" >本研究的主要问题包括：</font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><span style="font-family:宋体;mso-spacerun:'yes';" >&nbsp;</span></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.如何将群集导航迷路经验进行分解、对齐及形式化表征，凝练与量化计算导航迷路经验语义共识，构建合适的、可嵌入导航经验语义的关联知识图谱，将导航迷路经验统一于导航地图认知框架下转换为供导航者学习的知识。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.如何构建高质量的样本库，解决与导航迷路经验相关的样本自动滤选问题。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.如何自动化抽取导航迷路场景的特征词集，从经验文本中提取导航要素实体及本体经验特征语义，作为进一步构建知识子图模型的基础元素。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >4.如何针对迷路场景的特定查询构建图存储方案以及查询优化策略，建立导航迷路场景的因果驱动与关联计算方法。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >5.如何将导航迷路场景知识图与地图要素进行融合与可视化呈现，使导航者在多维立体语义中交叉认知，激发用户学习发现和关联推理能力，增加用户的空间知识获取，强化其自主导航能力。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:106.9000pt;" ><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >项目的研究背景及项目主要研究内容：（国内外研究现状、项目已有的基础，与本项目有关的研究积累和已取得的成绩，已具备的条件，尚缺少的条件及方法）</font> </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=23  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b style="mso-bidi-font-weight:normal" ><span class="16"  style="font-family:宋体;mso-ansi-font-weight:bold;mso-bidi-font-weight:normal;" ><font face="宋体" >项目研究背景：</font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><span style="font-family:宋体;mso-spacerun:'yes';" >&nbsp;</span></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >导航决策与人们的日常出行息息相关，是人们日常活动中的一项重要的认知任务。导航经验知识的获取对于人类导航行为及导航能力至关重要。随着城市化进程的不断加速，城市道路和城市环境的复杂性日益加剧，迷路成为了人们在陌生环境下经常会遇到的问题。因此，本项目着重针对导航决策中的迷路场景进行特定的经验知识图谱与计算研究，并提供智能搜索和迷路经验自然语言智能问答。使得导航者在面临实际复杂交通环境及迷路场景时，具备独立于导航系统辅助之外的自主导航意识，以及应对潜在变化与解决冲突的能力。</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >此外，现有大数据环境下产生了日益丰富的导航经验数据，这些数据在导航过程中借由用户与环境交互形成，蕴含着丰富的导航认知线索，代表了典型用户群体的共性导航经验认知。这些经验知识可以增强导航者导航决策的质量，对大众导航认知水平的提升具有宝贵的价值。然而，这些群集经验并不能由现有导航地图（由制图专家认知主导）完全覆盖或准确表征，加之目前经验建模分析的局限，缺乏将群集经验吸收进导航地图的手段，阻碍了它们作为高级认知经验或结构化经验在导航应用中进行共享和学习。</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >在此背景下，如何创新性地借助众源导航迷路经验数据学习，揭示共性经验规律，构建迷路场景经验知识图谱与计算的基础框架，增强导航系统对导航环境空间知识的获取及路径决策能力，是一个非常值得研究的重要基础科学问题。故，本项目拟开展</font><font face="宋体" >“城市导航迷路场景关联知识图谱与计算研究”，有望形成基于更广泛群集经验认知的经验共享与学习通道，快速提升大众导航认知的层次和水平，具有重要理论意义与实用价值。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b style="mso-bidi-font-weight:normal" ><span class="16"  style="font-family:宋体;mso-ansi-font-weight:bold;mso-bidi-font-weight:normal;" ><font face="宋体" >项目主要研究内容：</font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><span style="font-family:宋体;mso-spacerun:'yes';" >&nbsp;</span></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.原始迷路导航经验信息管理：收集、整合、存储、管理用户在出行过程中的导航经验信息。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.对导航迷路经验信息进行时空要素抽取并展示：从导航经验信息中提取时间、天气、地点、环境因素等信息，并将其在地图上进行展示。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.对导航迷路的场景进行分类和统计展示：将导航经验信息中用户迷路的场景进行分类和统计，使用户更好地了解迷路的原因和场景。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >4.对导航迷路场景的知识图进行计算、展示与查询：将导航经验信息中用户迷路的场景构建成知识图谱，并通过计算、展示和查询等方式，让用户更好地了解不同场景的迷路情况。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >5.导航迷路情感分析：对导航经验信息中用户迷路的场景进行情感分析，以便用户更好地了解用户在迷路场景中的情感体验，为导航软件提供改进方案。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >6.导航迷路因果关系分析：对导航经验信息中用户迷路的场景进行因果关系分析，以便用户更好地了解导致迷路的原因，为导航软件提供改进方案。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b style="mso-bidi-font-weight:normal" ><span class="16"  style="font-family:宋体;mso-ansi-font-weight:bold;mso-bidi-font-weight:normal;" ><font face="宋体" >国内外研究现状：</font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><span style="font-family:宋体;mso-spacerun:'yes';" >&nbsp;</span></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >城市导航迷路场景关联知识图谱与计算研究是鲜有人关注的领域，目前与其相关性较高的研究领域是基于社交媒体的交通信息抽取研究，本研究大量参考了基于社交媒体的交通信息抽取领域中关于任务定义、抽取方法、评价指标等相关理论知识。基于社交媒体的交通信息抽取研究一直是交通研究领域的热门课题之一，许多研究人员提出了利用自然语言处理技术从社交媒体文本数据中提取交通信息的方法，这类方法的提出在一定程度上解决了人工提取交通信息耗时长、效率低等问题。其中，从社交媒体文本中提取交通信息的方法主要有文本分类、命名实体识别、无监督聚类等，本节将从文本分类、命名实体识别、无监督聚类三个</font><font face="宋体" >NLP任务的研究现状引入到基于社交媒体的交通信息抽取的研究现状，并讨论目前交通信息抽取任务框架迁移到导航迷路经验建模与挖掘任务上的局限性。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.城市知识图谱 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >如何将知识图谱建模，图数据库往往是一个优秀的选择。知识图谱是一个由实体、属性和它们之间的关系构成的巨大图形，而图数据库则是一种专门用于存储和查询这种大规模图形的数据库。由于其天然的图形结构，图数据库可以更好地处理实体之间的关系，比如，它们可以轻松地存储和查询实体之间的复杂关系。在建模知识图谱时，使用图数据库可以更好地捕捉实体之间的关系，并能够更加高效地查询这些关系。</font><font face="宋体" >Yachen Tang等人提出了一种基于图形数据库的知识图谱存储和查询方法，并在构建的电力设备管理知识图谱上比较了RDF通用存储格式和图形数据库的存储和查询性能。Pengcheng Liu等人基于Neo4j图形数据库平台构建的台风知识图谱，可以将台风数据中的各种信息相互关联，进行全面和相关的分析，并最终为台风预防和灾后保护提供有效的帮助。Dongyang Zheng等人同样利用了Neo4j图形数据库平台构建了学者-课程知识图谱（SCKG）。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.文本分类 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >文本分类是自然语言处理</font><font face="宋体" >(NLP)中的一个经典问题，旨在为句子、查询搜索字段、段落和文档等文本单元分配标签或标记。文本数据可以自于电子邮件、社区聊天、社交媒体、用户评论等等网络平台。由于文本具有非结构化性质，所以文本分类会是一项具有挑战和耗时的工作。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >文本分类有两种方式：（</font><font face="宋体" >1）人工手动标注分类；（2）自动文本分类。随着互联网的快速发展，文本的数据规模与日俱增，自动标注分类的方式才能适应数据规模的爆炸式增长。自动标注分类中又以监督学习为主，目前自动标注分类的方式主要有三种：（1）基于规则；（2）基于传统机器学习；（3）基于深度学习。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >传统机器学习方法依赖于文本的向量化表示以及特征工程的预处理，深度学习方法为解决手工特征的限制应运而生。深度学习方法的核心是使用自动学习的词嵌入模型，它将文本映射为一个低维连续特征向量，因此不需要手工生成特征。最早的词嵌入模型之一是</font><font face="宋体" >Dumais在1989年提出的潜在语义分析(LSA)，LSA是一个在20万个单词上训练且不到100万个参数的线性模型。2001年，Bengio提出了第一个神经语言模型，该模型是一个基于1400万单词训练的前馈神经网络。然而，这些早期的词嵌入模型得到的词向量特征不如手工特征，因此没有被广泛使用。当使用大量的文本训练数据配合更大更复杂的词嵌入模型时，计算范式开始发生转变。2013年，谷歌开发出了使用60亿个单词进行训练的Word2VEC模型，并迅速在许多NLP任务中流行起来。2017年，AI2和华盛顿大学的团队开发了一个基于3层双向LSTM的上下文词嵌入模型，该模型在10亿个单词上训练了9300万个参数，此模型被称为Elmo。因为双向LSTM模型能够捕获文本的上下文语义，Elmo比Word2VEC在有些任务上表现得更好。2018年，谷歌开发出了一种新的神经网络架构——Transformer来构建词嵌入模型，Transformer是一类基于注意力机制的模型。同年，谷歌开发了基于双向Transformer的BERT。BERT由3.4亿个参数组成，使用33亿个单词进行训练，是当前最先进的词嵌入模型。目前使用更大模型和更多训练数据在自然语言处理深度学习中仍然是大势所趋。近期开发的模型印证了这点，OpenAI的GPT-3模型包含1700亿个参数，Google的gshard包含6000亿个参数。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >尽管这些超大参数规模的深度学习模型在各种</font><font face="宋体" >NLP任务上得到了优异的性能表现，但是仍然在许多任务上预测效果很不稳定，而且深度学习模型复杂的计算方式和超大规模的训练参数导致训练时间很长。目前，传统机器学习方法与深度学习模型在不同的任务场景下都有自己的一席之地，没有绝对的全面优势，并且经典机器学习方法与深度学习模型的融合研究也越来越常见。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.实体抽取 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >命名实体识别</font><font face="宋体" >(NER)是指从文本中识别并分类各种命名实体的自然语言处理任务。中文命名实体识别相较于其他语言更为复杂、困难，中文最明显的特点是词界模糊，没有定界符表示词界。而在英文中，词与词之间有分隔符来标识界限。另外，中文的语义比英文复杂，汉字能够灵活组合，语义表达丰富，在不同的上下文语境中表达不同意思。汉字作为中文文本的基本单位，模糊的词边界和复杂的上下文语义会造成大量的歧义，增加了中文命名实体识别的难度。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >传统的中文命名实体识别方法主要有两类：基于规则的方法和基于统计的机器学习方法。基于规则的方法主要是使用正则表达式或字典，根据一些匹配规则从文本中检索实体。比如提取人名时，可以使用正则表达式采取</font><font face="宋体" >“姓”加“名”的方式提取，而基于字典的方法则需要建立一个包含人名的词汇表。还比如，在提取地名实体时，基于字典的方法会建立一个地名录，这种方式至今仍是可靠的。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >由于命名实体识别可以简单理解为实体分类任务，所以可以使用基于统计概率的方法做出预测。传统基于统计的机器学习模型包括隐马尔可夫模型</font><font face="宋体" >(HMM)、条件随机场(CRF)、支持向量机(SVM)</font></span></b><b><sup><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;vertical-align:super;" ><font face="宋体" >&nbsp;</font></span></sup></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >等，已经成功地用于命名实体的序列化和识别，并取得了良好的效果。</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >综上所述，基于社交媒体的交通信息抽取研究已经取得了许多具有启发意义的重要研究成果，然而交通信息抽取研究忽略了这种交通信息在时空上积累的导航迷路经验信息，亟待开展迷路场景知识图与计算研究，以更好地辅助城市导航服务，建立基于更广泛群集经验认知的经验共享与学习通道。</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b style="mso-bidi-font-weight:normal" ><span class="16"  style="font-family:宋体;mso-ansi-font-weight:bold;mso-bidi-font-weight:normal;" ><font face="宋体" >项目已有基础及研究积累：</font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><span style="font-family:宋体;mso-spacerun:'yes';" >&nbsp;</span></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本课题为国家自然科学基金项目</font><font face="宋体" >“融合城市导航场景空间认知与群集经验学习的导航地图表征模型研究”（项目编号：No. 42071383）中的研究内容，项目已经具备了导航经验文本分类、实体抽取和知识图谱的相关技术基础。本项目的研究内容涉及自然语言处理、深度学习、大数据分析等多个领域，已有相关研究成果和技术积累。近年来，自然语言问答系统、深度学习模型在各领域得到广泛应用，并取得了大量成果。同时，大数据分析技术也在城市规划、交通管理等方面得到了广泛应用，并有望在导航系统中发挥重要作用。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b style="mso-bidi-font-weight:normal" ><span class="16"  style="font-family:宋体;mso-ansi-font-weight:bold;mso-bidi-font-weight:normal;" ><font face="宋体" >已具备条件：</font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><span style="font-family:宋体;mso-spacerun:'yes';" >&nbsp;</span></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本项目的研究内容涉及到多个学科领域的技术，需要具备相关领域的专业人才、硬件设备和软件工具。本项目的主要人员具备相关领域的专业知识和经验，拥有充足的研究经费和实验设备，能够提供足够的学术支持。</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b style="mso-bidi-font-weight:normal" ><span class="16"  style="font-family:宋体;mso-ansi-font-weight:bold;mso-bidi-font-weight:normal;" ><font face="宋体" >尚缺少的条件及方法：</font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><span style="font-family:宋体;mso-spacerun:'yes';" >&nbsp;</span></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:18.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本项目涉及到多个学科领域的技术，需要跨学科合作，整合各领域的专业知识和技术。同时，本项目涉及到大规模数据处理和分析，需要建立完备的数据管理和分析平台。为此，需要建立跨学科合作机制，整合各领域的专业知识和技术，建立完善的数据管理和分析平台，提高数据处理和分析的效率。</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:106.9000pt;" ><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >项目设计路线（项目方案、进程、安排等）：</font> </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >项目方案</font><font face="宋体" >: </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >从经验文本数据中产生与空间认知协同的经验知识语义表征与量化计算方法，实现导航经验语义要素化和特征化以后的可共享表达，为应用提供技术支撑。从目前经验素材的表达形式上，群集经验主要以基于社交媒体文本形式存在，依据导航关联语义框架中归置与划分的经验语义类别，利用深度学习技术，分类进行经验语义协同计算。</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.原始迷路导航经验信息管理 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >原始导航经验信息管理是指对用户在出行过程中的导航经验信息进行收集、整合、存储、管理的过程。收集用户在使用导航软件过程中的一些基本信息，如用户姓名、出行目的、出行起点和终点等，将用户输入的信息整合起来，形成一条完整的导航经验信息。将整合好的导航经验信息存储到数据库中，以便后续进行数据分析和处理。</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.对导航迷路经验信息进行时空要素抽取并展示 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >对导航经验信息进行时空要素抽取并展示，是指从用户在出行过程中的导航经验信息中提取时间、天气、地点、环境因素等信息，并将其在地图上进行展示。利用实体抽取技术，从导航经验信息中提取时间、天气、地点、环境因素等信息，使用</font><font face="宋体" >BERT模型进行模型训练和预测。通过导航软件提供的API，获取用户信息，将提取到的时空要素进行处理，将时间、天气、地点、环境因素等信息进行分类和标注，便于后续的展示和分析。处理好的时空要素信息在地图上进行展示。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.对导航迷路的场景进行分类和统计展示 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >对导航迷路的场景进行分类和统计展示，是指将导航经验信息中用户迷路的场景进行分类和统计，以便用户更好地了解迷路的原因和场景，并规避这些场景，减少迷路的发生。对导航经验信息进行清洗和筛选，只保留用户迷路的信息，去除其他无用信息。对迷路场景进行分类，可以将迷路场景分为商场、胡同、立交桥等场景，将迷路场景知识图进行建模，并将其存储到</font><font face="宋体" >HugeGraph分布式图数据库中，便于后续的统计和分析，使用柱状图、饼图等形式进行展示，便于用户了解不同场景的迷路情况。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >4.对导航迷路场景的知识图进行计算、展示与查询 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >对导航迷路场景的知识图进行计算、展示与查询，将导航经验信息中用户迷路的场景进行抽象化建模并存储到</font><font face="宋体" >HugeGraph分布式图数据库中，对知识图谱进行分析，并确定实体之间的关系和属性，并通过计算、展示和查询等方式，让用户更好地了解不同场景的迷路情况，为用户提供更好的导航体验。对导航经验信息进行清洗和筛选，去除其他无用信息，将不同场景的迷路情况构建成知识图谱进行展示。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >5.导航迷路情感分析 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >导航迷路情感分析，是指对导航经验信息中用户迷路的场景进行情感分析，以便用户更好地了解用户在迷路场景中的情感体验，并为导航软件提供改进方案。可以使用自然语言处理技术，对用户在迷路场景中的评论或描述进行情感分析，得出用户在迷路场景中的情感体验。根据情感分析的结果，为导航软件提供改进方案，以更好地避免迷路。</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >6.导航迷路因果关系分析 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >对导航经验信息中用户迷路的场景进行因果关系分析，以便用户更好地了解导致迷路的原因，为导航软件提供改进方案。对迷路场景进行因果关系分析，使用数据挖掘技术等技术，对用户迷路的原因进行分析并对因果关系分析的结果进行展示，为导航软件提供改进方案。使用</font><font face="宋体" >Gremlin语言对存储在HugeGraph分布式图数据库中的迷路场景知识图进行交互查询，并根据交互查询的结果，对迷路场景知识图进行优化和改进，提高知识图谱的准确度。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:23.9500pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >7.模型验证与优化 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:21.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >为验证评估上述模型，设计分组认知实验，以导航与城市功能区作为典型交通交互场景，仔细调查某地区的导航要素与本体语义之间的关联，对已经构建好的模型进行验证，同时根据验证结果不断对模型进行优化和调整。</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:23.9500pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >可行性分析：</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:23.9500pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.数据来源：本研究所需的群集导航经验数据来自城市中的导航经验大数据，数据来源可靠。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:23.9500pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.技术支持：本研究所需的技术支持包括自然语言处理技术、深度学习网络技术等，这些技术已经有较为成熟的应用案例，具备可行性。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:23.9500pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.实验验证：本研究所提出的方法需要进行实验验证，可以通过构建样本库、建立实验场景等方式进行验证。&nbsp;&nbsp; </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:23.9500pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >进程安排：</font> </span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:23.9500pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.2023.06-2023.07：原始导航经验信息管理 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:23.9500pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.2023.08-2023.09：对导航经验信息进行时空要素抽取并展示 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:23.9500pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.2023.10-2023.11：对导航迷路的场景进行分类和统计展示 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:23.9500pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >4.2023.12-2024.01：对导航迷路场景的知识图进行计算、展示与查询 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:23.9500pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >5.2024.02-2024.03：导航迷路情感分析、导航迷路因果关系分析 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:23.9500pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >6.2024.04-2024.05：模型验证与优化 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:106.9000pt;" ><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >项目特色与创新点（</font><font face="宋体" >200字以内）： </font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.建立导航迷路场景的知识图，将迷路场景的时间、空间、天气、地形、道路、建筑等环境特征等概念进行抽象与关系建模。该研究首次构建基于群集导航迷路经验的认知语义框架，将泛在导航迷路经验文本转化为可学习的导航决策知识。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.面向导航迷路场景的知识图自动化查询计算方法，并针对迷路场景的特定查询构建图存储方案以及查询优化策略。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.建立导航迷路场景的情感计算方法，基于深度学习网络建立导航要素的因果驱动与关联计算方法，对迷路场景的原因、环境、情感进行理解与计算。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:24.0000pt;mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >4.将导航迷路关联知识子图与地图要素进行融合与可视化呈现，增加用户的空间知识获取，强化其自主导航能力。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:106.9000pt;" ><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >项目预期成果：</font> </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;
+margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本项目以培养学生科研素养为主要目标，项目选题前沿，科学问题明晰，研究目标明确，学生负责人学习成绩良好，学习态度认真，专业基础扎实。预期通过本项目的研究，使学生获得完整的科研训练，产出</font><font face="宋体" >“城市导航迷路场景关联知识图谱与计算研究”原型系统，软件著作权一项，拟参与中国互联网大学生创新创业大赛，并在大赛中取得优异成绩。为我校高素质人才后续的科研之路奠定良好的科研基础。 </font></span></b><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr style="height:106.9000pt;" ><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >经费预算</font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（请填写详细经费预算：主要内容为印刷费、调研差旅费、材料费、测试及加工费、图书资料费、论文版面费等）</font> </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><table class=MsoNormalTable  border=0  cellspacing=0  style="border-collapse:collapse;width:100.0000%;border:none;
+mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >经费科目</font> </span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >计算根据及理由</font> </span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >单价</font><font face="宋体" >(元) </font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >数量</font> </span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >总价</font><font face="宋体" >(元) </font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >办公费（不超过总金额的</font><font face="宋体" >10%）</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >参加会议学术交流，会议注册费等相关费用，按四人每人</font><font face="宋体" >500元计算。</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >500</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >4</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2000</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >办公费（不超过总金额的</font><font face="宋体" >10%）</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >参加学术会议住宿差旅费，按四人每人</font><font face="宋体" >500计算</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >500</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >4</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2000</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >办公费（不超过总金额的</font><font face="宋体" >10%）</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >主要用于项目研究过程中所需耗材，项目成员每人</font><font face="宋体" >500元预算</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >500</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >4</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2000</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >办公费（不超过总金额的</font><font face="宋体" >10%）</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >文献资料购置及文印，项目所需的学习资料购买及文印，每人</font><font face="宋体" >500元计算。</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >500</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >4</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2000</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >总计</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >8,000</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></b></p></td></tr><tr style="height:54.4000pt;" ><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:1.0000pt solid rgb(0,0,0);
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >指导老师推荐意见（包括在人员、条件、配套经费保障的意见）</font> <font face="宋体" >：</font> </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:none;border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=right  style="mso-pagination:widow-orphan;text-align:right;line-height:13.5000pt;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >指导教师签字：</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:54.4000pt;" ><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >学院推荐意见：</font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:none;border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=right  style="mso-pagination:widow-orphan;text-align:right;line-height:13.5000pt;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >学院负责人签字（公章）：</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:54.4000pt;" ><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:0.2500pt solid rgb(0,0,0);border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;vertical-align:top;" ><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >专家委员会评审意见：</font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr><td valign=top  style="padding:5.6500pt 3.7500pt 5.6500pt 3.7500pt ;border-left:1.0000pt solid rgb(0,0,0);mso-border-left-alt:0.2500pt solid rgb(0,0,0);
+border-right:1.0000pt solid rgb(0,0,0);mso-border-right-alt:0.2500pt solid rgb(0,0,0);border-top:none;
+mso-border-top-alt:none;border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.2500pt solid rgb(0,0,0);" ><p class=MsoNormal  align=right  style="mso-pagination:widow-orphan;text-align:right;line-height:13.5000pt;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >主任签字（教务处章）：</font><font face="宋体" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >年</font><font face="宋体" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table></div><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>
