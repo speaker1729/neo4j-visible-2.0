@@ -1,0 +1,142 @@
+{
+    "info": {
+        "_postman_id": "87654321-4321-4321-4321-210987654321",
+        "name": "RelationController API",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "find_located_in",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/Relation/find_located_in",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "Relation",
+                        "find_located_in"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "find_lost_weather",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/Relation/find_lost_weather",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "Relation",
+                        "find_lost_weather"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "find_lost_reason",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/Relation/find_lost_reason",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "Relation",
+                        "find_lost_reason"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "find_lost_person",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/Relation/find_lost_person",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "Relation",
+                        "find_lost_person"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "find_lost_time",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/Relation/find_lost_time",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "Relation",
+                        "find_lost_time"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "find_lost_POI",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/Relation/find_lost_POI",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "Relation",
+                        "find_lost_POI"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "find_by",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/Relation/find_by",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "Relation",
+                        "find_by"
+                    ]
+                }
+            }
+        }
+    ]
+}
