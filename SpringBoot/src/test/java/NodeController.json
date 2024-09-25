@@ -1,0 +1,618 @@
+{
+    "info": {
+        "_postman_id": "87654321-4321-4321-4321-210987654321",
+        "name": "NodeController API",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "findAllLocation",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/findAllLocation",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findAllLocation"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findAllArea",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/findAllArea",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findAllArea"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findAllCity",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/findAllCity",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findAllCity"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findAllProvince",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/findAllProvince",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findAllProvince"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findAllWeather",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/findAllWeather",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findAllWeather"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findAllTime",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/findAllTime",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findAllTime"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findAllReason",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/findAllReason",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findAllReason"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findAllPOI",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/findAllPOI",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findAllPOI"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findAllPerson",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/findAllPerson",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findAllPerson"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findAllTripMode",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:9093/findAllTripMode",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findAllTripMode"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findByProvinceName",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/x-www-form-urlencoded"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        {
+                            "key": "ProvinceName",
+                            "value": "",
+                            "type": "text"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9093/findByProvinceName",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findByProvinceName"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findByCityName",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/x-www-form-urlencoded"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        {
+                            "key": "CityName",
+                            "value": "",
+                            "type": "text"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9093/findByCityName",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findByCityName"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findByAreaName",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/x-www-form-urlencoded"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        {
+                            "key": "AreaName",
+                            "value": "",
+                            "type": "text"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9093/findByAreaName",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findByAreaName"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findByLocationName",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/x-www-form-urlencoded"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        {
+                            "key": "LocationName",
+                            "value": "",
+                            "type": "text"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9093/findByLocationName",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findByLocationName"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findByTimeName",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/x-www-form-urlencoded"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        {
+                            "key": "TimeName",
+                            "value": "",
+                            "type": "text"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9093/findByTimeName",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findByTimeName"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findByWeatherName",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/x-www-form-urlencoded"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        {
+                            "key": "WeatherName",
+                            "value": "",
+                            "type": "text"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9093/findByWeatherName",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findByWeatherName"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findByPersonName",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/x-www-form-urlencoded"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        {
+                            "key": "PersonName",
+                            "value": "",
+                            "type": "text"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9093/findByPersonName",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findByPersonName"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findByPOIName",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/x-www-form-urlencoded"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        {
+                            "key": "POIName",
+                            "value": "",
+                            "type": "text"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9093/findByPOIName",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findByPOIName"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findByReasonName",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/x-www-form-urlencoded"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        {
+                            "key": "ReasonName",
+                            "value": "",
+                            "type": "text"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9093/findByReasonName",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findByReasonName"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findByTripModeName",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/x-www-form-urlencoded"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        {
+                            "key": "TripModeName",
+                            "value": "",
+                            "type": "text"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9093/findByTripModeName",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findByTripModeName"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findLocationByProvince",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/x-www-form-urlencoded"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        {
+                            "key": "provinceName",
+                            "value": "",
+                            "type": "text"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9093/findLocationByProvince",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findLocationByProvince"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findLocationByCity",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/x-www-form-urlencoded"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        {
+                            "key": "cityName",
+                            "value": "",
+                            "type": "text"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9093/findLocationByCity",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findLocationByCity"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "findLocationByArea",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/x-www-form-urlencoded"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        {
+                            "key": "areaName",
+                            "value": "",
+                            "type": "text"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9093/findLocationByArea",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "9093",
+                    "path": [
+                        "findLocationByArea"
+                    ]
+                }
+            }
+        }
+    ]
+}
